@@ -1,0 +1,15 @@
+ponto,cidade,rio,bacia_hidrografica,area,grupo,populacao_total,populacao_urbana_pct,populacao_rural_pct,coliformes_media,coliformes_mediana,coliformes_desvpad,dbo_media,dbo_mediana,dbo_desvpad,od_media,od_mediana,od_desvpad,ptotal_media,ptotal_mediana,ptotal_desvpad,iqa_media,iqa_mediana,iqa_desvpad
+P1,Itororo,Colonia,Rio Cachoeira,Area 1,Com SES,19911,91.0,9.0,5.01,4.81,0.95,9.59,5.50,11.94,3.44,3.20,2.53,0.56,0.40,0.58,39,40,11.47
+P2,Itaju do Colonia,Colonia,Rio Cachoeira,Area 1,Com SES,7278,80.0,20.0,3.15,3.11,0.71,4.07,2.00,5.18,5.39,5.70,2.86,0.21,0.16,0.19,56,58,10.54
+P3,Itabuna,Cachoeira,Rio Cachoeira,Area 1,Com SES,204710,98.0,2.0,4.31,4.20,0.61,7.29,4.00,6.77,3.79,3.60,2.46,0.48,0.48,0.34,40,37,8.95
+P4,Mutuipe,Jequirica,Rio Jequirica,Area 2,Com SES,21466,45.0,55.0,3.53,3.64,0.61,1.84,2.00,0.69,5.82,5.10,1.54,0.04,0.04,0.03,65,62,8.15
+P5,Laje,Jequirica,Rio Jequirica,Area 2,Com SES,22206,26.1,73.9,2.85,2.68,0.55,1.96,2.00,0.65,5.44,5.10,1.90,0.03,0.03,0.01,68,68,5.62
+P6,Laje,Jequirica,Rio Jequirica,Area 2,Com SES,22206,26.1,73.9,2.66,2.52,0.53,2.28,2.00,1.97,6.23,6.20,1.46,0.03,0.03,0.02,71,72,7.34
+P7,Jequie,Contas,Rio de Contas,Area 3,Com SES,151921,91.8,8.2,2.36,2.40,0.84,2.02,2.00,0.58,7.19,6.20,3.26,0.08,0.04,0.09,68,69,7.71
+P8,Jequie,Contas,Rio de Contas,Area 3,Com SES,151921,91.8,8.2,3.74,4.07,0.61,2.62,2.25,1.09,5.89,5.85,2.63,0.08,0.05,0.09,57,59,11.19
+P9,Jequie,Contas,Rio de Contas,Area 3,Com SES,151921,91.8,8.2,4.72,4.20,1.48,52.10,8.00,82.82,3.64,3.30,3.43,1.96,1.04,2.17,32,32,13.63
+P10,Feira de Santana,Principal,Rio Paraguacu,Area 4,Com SES,556756,91.7,8.3,5.63,6.07,0.97,32.29,24.30,23.84,4.75,3.95,5.11,3.41,3.09,1.88,26,25,12.42
+P11,Ubaitaba,Contas,Rio de Contas,Cidades controle,Sem SES,20697,85.1,14.9,3.27,3.40,0.66,2.11,2.00,0.72,5.33,5.22,2.17,0.06,0.04,0.06,62,61,8.31
+P12,Itape,Cachoeira,Rio Cachoeira,Cidades controle,Sem SES,10986,65.0,35.0,3.53,3.58,0.57,2.11,2.00,0.91,7.28,7.40,1.69,0.19,0.16,0.17,59,59,5.92
+P13,Wenceslau Guimaraes,Almas,Reconcavo Sul,Cidades controle,Sem SES,22181,34.0,66.0,3.32,3.34,0.87,2.27,2.00,1.45,6.56,6.60,1.88,0.05,0.05,0.02,65,65,7.70
+P14,Wenceslau Guimaraes,Preto,Reconcavo Sul,Cidades controle,Sem SES,22181,34.0,66.0,3.38,3.38,0.70,1.77,2.00,0.38,6.11,6.15,1.50,0.03,0.03,0.01,63,61,7.35
