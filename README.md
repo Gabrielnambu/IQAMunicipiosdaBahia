@@ -15,7 +15,7 @@ Análise exploratória de dados de qualidade da água coletados em 14 pontos de 
 
 Este repositório investiga uma pergunta simples de fazer e difícil de responder com rigor: **cidades com saneamento básico têm água de melhor qualidade do que cidades sem saneamento?**
 
-A análise usa dados secundários publicados por Pessoa, Orrico e Lordêlo (2018) e é tratada, do início ao fim, como **exploratória** — o objetivo não é provar uma relação de causa e efeito, e sim descrever os dados com transparência, incluindo os limites do que eles permitem concluir.
+A análise usa dados secundários publicados por Pessoa, Orrico e Lordêlo (2018) e é tratada, do início ao fim, como **exploratória** o objetivo não é provar uma relação de causa e efeito, e sim descrever os dados com transparência, incluindo os limites do que eles permitem concluir.
 
 ## Dados
 
