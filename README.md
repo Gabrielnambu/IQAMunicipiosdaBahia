@@ -52,13 +52,6 @@ O grupo Com SES é formado pelas cidades maiores da amostra; o grupo Sem SES, s�
 
 Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
-## Como reproduzir
-
-```bash
-pip install -r requirements.txt
-jupyter notebook Qualidade_Agua_Bahia_Documentacao.ipynb
-```
-
 ## Referências
 
 - PESSOA, J.O.; ORRICO, S.R.M.; LORDÊLO, M.S. *Qualidade da água de rios em cidades do Estado da Bahia.* Engenharia Sanitária e Ambiental, v. 23, n. 4, p. 687–696, 2018.
