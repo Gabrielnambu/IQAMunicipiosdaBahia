@@ -28,7 +28,6 @@ A análise usa dados secundários publicados por Pessoa, Orrico e Lordêlo (2018
 | Fonte | Pessoa, Orrico e Lordêlo (2018) — [DOI 10.1590/S1413-41522018166513](https://doi.org/10.1590/S1413-41522018166513) |
 | Referência legal | Resolução CONAMA 357/2005, água doce Classe 2 |
 
-Os arquivos de dados brutos e processados estão em [`data/`](data/) e [`outputs/`](outputs/).
 
 ## O que o notebook faz
 
