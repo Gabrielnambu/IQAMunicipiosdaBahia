@@ -5,7 +5,6 @@
 ![Numpy](https://img.shields.io/badge/Numpy-1.26-013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13-lightgrey)
-![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 
 Análise exploratória de dados de qualidade da água coletados em 14 pontos de monitoramento, em 10 municípios do interior da Bahia, comparando localidades com e sem Sistema de Esgotamento Sanitário (SES) frente aos limites da Resolução CONAMA 357/2005.
 
